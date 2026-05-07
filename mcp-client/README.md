@@ -131,6 +131,3 @@ mcp-client/
 
 ---
 
-## License
-
-MIT
