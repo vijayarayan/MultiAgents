@@ -1,4 +1,4 @@
-[README.md](A2A_Event_Planner/README.md) created. Here's what it covers:
+
 
 - **Architecture diagram** showing the agent/coordinator topology and the MCP bridge from the Weather Agent to the NWS server
 - **Agent & coordinator table** mapping each file to its port, role, and use case
