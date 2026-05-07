@@ -1,0 +1,258 @@
+[
+  {
+    "city": "Austin",
+    "state": "TX",
+    "flights": {
+      "New York": 280,
+      "Los Angeles": 220,
+      "Chicago": 190,
+      "Dallas": 85,
+      "Atlanta": 170
+    },
+    "avg_hotel_per_night": 150,
+    "travel_time_hours": {
+      "New York": 3.5,
+      "Los Angeles": 3.0,
+      "Chicago": 2.5,
+      "Dallas": 1.0,
+      "Atlanta": 2.5
+    },
+    "upcoming_events": [
+      {
+        "name": "SXSW",
+        "date_range": "March 7-15",
+        "impact": "high",
+        "description": "Major tech/music festival. Hotels 2x normal, city very crowded."
+      },
+      {
+        "name": "Austin Food & Wine Festival",
+        "date_range": "April 25-27",
+        "impact": "moderate",
+        "description": "Popular food festival. Some restaurant wait times longer."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "flights": {
+      "New York": 180,
+      "Los Angeles": 350,
+      "Chicago": 210,
+      "Dallas": 240,
+      "Atlanta": 130
+    },
+    "avg_hotel_per_night": 220,
+    "travel_time_hours": {
+      "New York": 3.0,
+      "Los Angeles": 5.5,
+      "Chicago": 3.5,
+      "Dallas": 3.0,
+      "Atlanta": 2.0
+    },
+    "upcoming_events": [
+      {
+        "name": "Miami Music Week / Ultra",
+        "date_range": "March 17-23",
+        "impact": "high",
+        "description": "Massive EDM festival week. Hotel surge pricing, South Beach packed."
+      },
+      {
+        "name": "Miami Open Tennis",
+        "date_range": "March 19-30",
+        "impact": "moderate",
+        "description": "Major tennis tournament. Traffic congestion near Hard Rock Stadium."
+      }
+    ],
+    "peak_season": true,
+    "peak_season_surcharge_pct": 35
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "flights": {
+      "New York": 250,
+      "Los Angeles": 180,
+      "Chicago": 160,
+      "Dallas": 170,
+      "Atlanta": 220
+    },
+    "avg_hotel_per_night": 130,
+    "travel_time_hours": {
+      "New York": 4.5,
+      "Los Angeles": 2.5,
+      "Chicago": 3.0,
+      "Dallas": 2.5,
+      "Atlanta": 3.5
+    },
+    "upcoming_events": [
+      {
+        "name": "Denver St. Patrick's Day Parade",
+        "date_range": "March 15",
+        "impact": "moderate",
+        "description": "Large downtown parade. Road closures in LoDo district."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "flights": {
+      "New York": 320,
+      "Los Angeles": 110,
+      "Chicago": 270,
+      "Dallas": 250,
+      "Atlanta": 300
+    },
+    "avg_hotel_per_night": 250,
+    "travel_time_hours": {
+      "New York": 5.5,
+      "Los Angeles": 1.5,
+      "Chicago": 4.5,
+      "Dallas": 3.5,
+      "Atlanta": 5.0
+    },
+    "upcoming_events": [
+      {
+        "name": "GDC (Game Developers Conference)",
+        "date_range": "March 17-21",
+        "impact": "high",
+        "description": "Major tech conference. Moscone Center area hotels 2x-3x normal."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "flights": {
+      "New York": 200,
+      "Los Angeles": 290,
+      "Chicago": 140,
+      "Dallas": 160,
+      "Atlanta": 95
+    },
+    "avg_hotel_per_night": 140,
+    "travel_time_hours": {
+      "New York": 2.5,
+      "Los Angeles": 4.0,
+      "Chicago": 2.0,
+      "Dallas": 2.0,
+      "Atlanta": 1.0
+    },
+    "upcoming_events": [
+      {
+        "name": "CMA Music Festival",
+        "date_range": "June 5-8",
+        "impact": "high",
+        "description": "Country music festival. Broadway area extremely crowded."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "flights": {
+      "New York": 310,
+      "Los Angeles": 150,
+      "Chicago": 240,
+      "Dallas": 230,
+      "Atlanta": 290
+    },
+    "avg_hotel_per_night": 190,
+    "travel_time_hours": {
+      "New York": 5.5,
+      "Los Angeles": 2.5,
+      "Chicago": 4.0,
+      "Dallas": 4.0,
+      "Atlanta": 5.0
+    },
+    "upcoming_events": [
+      {
+        "name": "Seattle Cherry Blossom Festival",
+        "date_range": "April 10-13",
+        "impact": "moderate",
+        "description": "Popular spring festival at UW campus. Parks crowded."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "flights": {
+      "New York": 270,
+      "Los Angeles": 100,
+      "Chicago": 200,
+      "Dallas": 160,
+      "Atlanta": 240
+    },
+    "avg_hotel_per_night": 160,
+    "travel_time_hours": {
+      "New York": 5.0,
+      "Los Angeles": 1.5,
+      "Chicago": 3.5,
+      "Dallas": 2.5,
+      "Atlanta": 4.0
+    },
+    "upcoming_events": [
+      {
+        "name": "Spring Training (MLB)",
+        "date_range": "February 20 - March 25",
+        "impact": "moderate",
+        "description": "Baseball spring training. Scottsdale hotels book up, moderate price increase."
+      },
+      {
+        "name": "Phoenix Open (aftermath)",
+        "date_range": "February 10-16",
+        "impact": "moderate",
+        "description": "Major PGA event. Scottsdale area busy in preceding weeks."
+      }
+    ],
+    "peak_season": true,
+    "peak_season_surcharge_pct": 20
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "flights": {
+      "New York": 220,
+      "Los Angeles": 280,
+      "Chicago": 170,
+      "Dallas": 130,
+      "Atlanta": 110
+    },
+    "avg_hotel_per_night": 155,
+    "travel_time_hours": {
+      "New York": 3.0,
+      "Los Angeles": 4.0,
+      "Chicago": 2.5,
+      "Dallas": 1.5,
+      "Atlanta": 1.5
+    },
+    "upcoming_events": [
+      {
+        "name": "Mardi Gras",
+        "date_range": "February 14 - March 4",
+        "impact": "high",
+        "description": "Iconic carnival. French Quarter packed, hotels 3x normal."
+      },
+      {
+        "name": "New Orleans Jazz Fest",
+        "date_range": "April 25 - May 4",
+        "impact": "high",
+        "description": "Major music festival. City-wide hotel surge pricing."
+      }
+    ],
+    "peak_season": false,
+    "peak_season_surcharge_pct": 0
+  }
+]
